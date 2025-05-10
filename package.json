@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://kllc7.github.io/my-world-map-app",
+  "homepage": "https://kllc7.github.io/mwma",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
