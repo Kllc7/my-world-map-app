@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div className="app-container">
       <header className="app-header">
-        <h1 className="text-3xl font-bold text-center p-4">My Interactive World Map</h1>
+        <h1 className="text-3xl font-bold text-center p-4">World Map</h1>
       </header>
       <main className="app-main">
         <Map />
